@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=RESET Pin=R2-1
+Added Pin To Net: NetName=RESET Pin=SW1-2
+Add Differential Pair: Number of nets in differential pair NetR6_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR7_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PA11 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PA12 is 1 instead of 2
+Added Room: Name=blue_pill

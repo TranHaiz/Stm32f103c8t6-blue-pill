@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PC14 Pin=X2-1
+Removed Pin From Net: NetName=PC15 Pin=X2-2
+Removed Member From Class: ClassName=blue_pill Member=X2
+Added Component: Designator=Y?(XTAL_ABS07-32.768KHZ-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABS07-32.768KHZ-T/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABS07-32.768KHZ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ABS07-32.768KHZ-T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS07-32.768KHZ-T/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PC15 Pin=Y?-1
+Added Pin To Net: NetName=PC14 Pin=Y?-2
+Add Differential Pair: Number of nets in differential pair NetR6_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR7_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PA11 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PA12 is 1 instead of 2
+Added Member To Class: ClassName=blue_pill Member=Component Y? ABS07-32.768KHZ-T
+Added Room: Name=blue_pill

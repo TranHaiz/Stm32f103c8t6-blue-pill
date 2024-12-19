@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=PD0 Pin=C6-2
+Removed Pin From Net: NetName=PD1 Pin=C7-2
+Removed Pin From Net: NetName=3.3V Pin=C8-2
+Removed Pin From Net: NetName=PC14 Pin=C9-2
+Removed Pin From Net: NetName=PC15 Pin=C10-2
+Removed Pin From Net: NetName=NetLED1_1 Pin=LED1-1
+Removed Pin From Net: NetName=NetLED1_1 Pin=LED2-1
+Removed Pin From Net: NetName=NetP1_5 Pin=SW1-1
+Removed Member From Class: ClassName=blue_pill Member=LED1
+Removed Member From Class: ClassName=blue_pill Member=LED2
+Change Component Footprint: Designator=C1 Old Footprint=CN1.5 New Footprint=C-0805
+Change Component Footprint: Designator=C2 Old Footprint=CN1.5 New Footprint=C-0805
+Change Component Footprint: Designator=C3 Old Footprint=CN1.5 New Footprint=C-0805
+Change Component Footprint: Designator=C4 Old Footprint=CN1.5 New Footprint=C-0805
+Change Component Footprint: Designator=C5 Old Footprint=CN1.5 New Footprint=C-0805
+Change Component Footprint: Designator=C8 Old Footprint=CN1.5 New Footprint=C-0805
+Change Component Footprint: Designator=C6 Old Footprint=CN2 New Footprint=C-0805
+Change Component Footprint: Designator=C7 Old Footprint=CN2 New Footprint=C-0805
+Change Component Footprint: Designator=C9 Old Footprint=CN2 New Footprint=C-0805
+Change Component Footprint: Designator=C10 Old Footprint=CN2 New Footprint=C-0805
+Change Component Footprint: Designator=R1 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=R2 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=R3 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=R4 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=R5 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=R6 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=R7 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=R8 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=R9 Old Footprint=R1/4W New Footprint=SM-1206
+Change Component Footprint: Designator=SW1 Old Footprint=SW2 New Footprint=SW4-SMD-5.2X5.2X1.5MM
+Change Component Comment : Designator=C6 Old Comment=104 New Comment=103
+Change Component Comment : Designator=C7 Old Comment=104 New Comment=103
+Change Component Comment : Designator=C9 Old Comment=104 New Comment=103
+Change Component Comment : Designator=C10 Old Comment=104 New Comment=103
+Change Component Comment : Designator=SW1 Old Comment=SW New Comment=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGAKE010)
+Change Component Designator: OldDesignator=  NewDesignator=P1
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CN1.5"; UniqueID = "\BDGQMDZU" ("\BDGQMDZU")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CN1.5"; UniqueID = "\WNWZGEDI" ("\WNWZGEDI")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CN1.5"; UniqueID = "\DHVJKFXV" ("\DHVJKFXV")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CN1.5"; UniqueID = "\MKZMRLBM" ("\MKZMRLBM")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CN1.5"; UniqueID = "\EEFLQBHY" ("\EEFLQBHY")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CN2"; UniqueID = "\NPXJAEXP" ("\NPXJAEXP")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CN2"; UniqueID = "\KOIUHDAV" ("\KOIUHDAV")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CN1.5"; UniqueID = "\AWAWRSQN" ("\AWAWRSQN")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CN2"; UniqueID = "\FQJUHNUE" ("\FQJUHNUE")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CN2"; UniqueID = "\LRXCQWLX" ("\LRXCQWLX")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW2"; UniqueID = "\LVJCORYB" ("\LVJCORYB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKQGAKE010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKQGAKE010/ALPS/view-part/51324/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(C-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=L1(LED-0805-Blue)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002327"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Xanh Dýõng (Blue)"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LED-0805-Red)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP1_5 Pin=C6-1
+Added Pin To Net: NetName=PD0 Pin=C7-2
+Added Pin To Net: NetName=PD1 Pin=C8-2
+Added Pin To Net: NetName=3.3V Pin=C9-2
+Added Pin To Net: NetName=PC14 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=PC15 Pin=C11-2
+Added Pin To Net: NetName=3.3V Pin=L1-1
+Added Pin To Net: NetName=3.3V Pin=L2-1
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetP1_5 New Net Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=SW1-4
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R1-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R5-1
+Added Net: Name=NetL2_2
+Added Member To Class: ClassName=blue_pill Member=Component C11 103
+Added Member To Class: ClassName=blue_pill Member=Component L1 LED 0805
+Added Member To Class: ClassName=blue_pill Member=Component L2 LED 0805
+Added Member To Class: ClassName=blue_pill Member=Component P1 Header 3X2
+Added Room: Name=blue_pill

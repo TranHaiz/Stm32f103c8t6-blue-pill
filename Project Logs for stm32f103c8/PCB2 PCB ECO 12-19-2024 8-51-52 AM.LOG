@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RESET Pin=SW1-1
+Removed Pin From Net: NetName=RESET Pin=SW1-2
+Removed Pin From Net: NetName=NetC6_2 Pin=SW1-4
+Added Pin To Net: NetName=NetC6_2 Pin=SW1-2
+Added Pin To Net: NetName=RESET Pin=SW1-3
+Added Pin To Net: NetName=RESET Pin=SW1-4
+Add Differential Pair: Number of nets in differential pair NetR6_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR7_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PA11 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PA12 is 1 instead of 2
+Added Room: Name=blue_pill

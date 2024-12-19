@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=P1-5
+Removed Pin From Net: NetName=NetC6_1 Pin=P1-6
+Removed Pin From Net: NetName=NetC6_1 Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Net: Name=NetR2_2
+Add Differential Pair: Number of nets in differential pair NetR6_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR7_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PA11 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PA12 is 1 instead of 2
+Added Room: Name=blue_pill
